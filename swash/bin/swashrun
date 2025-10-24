@@ -114,7 +114,7 @@ if [ -r $input.sws ]; then
          mpirun -np $npmpi swash.exe
       fi
    else
-      /workspaces/ONDAS_Swash/swash/bin/swash.exe
+      swash.exe
    fi
    if [ $npmpi -gt 1 ]; then
       inode=0
