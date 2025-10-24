@@ -1,25 +1,17 @@
 {
-  "name": "ONDAS Swash Devcontainer",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "features": {},
-  "postCreateCommand": "apt-get update && apt-get install -y libc6 libstdc++6 && pip install --no-cache-dir -r requirements.txt",
-  "forwardPorts": [8888],
-  "remoteUser": "vscode",
-  "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash",
-    "python.defaultInterpreterPath": "/usr/local/bin/python"
-  },
-  "extensions": [
-    "ms-python.python",
-    "ms-toolsai.jupyter",
-    "ms-python.vscode-pylance",
-    "esbenp.prettier-vscode",
-    "ms-azuretools.vscode-docker"
-  ],
-  "mounts": [
-    "source=${localWorkspaceFolder}/data,target=/workspace/data,type=bind,consistency=cached"
-  ],
-  "containerEnv": {
-    "PYTHONUNBUFFERED": "1"
-  }
+    "name": "Ondas_Swash",
+    "image": "geoocean/rocky8",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "ms-toolsai.datawrangler"
+            ]
+        }
+    },
+    "postCreateCommand": "bash .devcontainer/check_develop.sh"
 }
