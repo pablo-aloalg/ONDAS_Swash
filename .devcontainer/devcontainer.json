@@ -1,6 +1,6 @@
 {
   "name": "Python Geospatial + Jupyter",
-  "image": "ubuntu:22.04", 
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
   "features": {},
   "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
   "forwardPorts": [8888],
