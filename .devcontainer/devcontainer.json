@@ -1,6 +1,6 @@
 {
   "name": "Python Geospatial + Jupyter",
-  "image": "geocean/rocky8", 
+  "image": "ubuntu:22.04", 
   "features": {},
   "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
   "forwardPorts": [8888],
