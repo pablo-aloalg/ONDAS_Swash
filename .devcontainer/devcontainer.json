@@ -1,20 +1,26 @@
 {
-  "name": "My Codespace",
+  "name": "Python Geospatial + Jupyter",
   "image": "mcr.microsoft.com/devcontainers/python:3.12", 
-  "features": {
-    "ghcr.io/devcontainers/features/python:1": {
-      "version": "3.12"
-    }
-  },
-  "postCreateCommand": "pip install -r requirements.txt",
-  "forwardPorts": [8000, 3000],
+  "features": {},
+  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
+  "forwardPorts": [8888],
   "remoteUser": "vscode",
   "settings": {
-    "terminal.integrated.shell.linux": "/bin/bash"
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "python.defaultInterpreterPath": "/usr/local/bin/python"
   },
   "extensions": [
     "ms-python.python",
     "ms-toolsai.jupyter",
-    "eamodio.gitlens"
-  ]
+    "ms-python.vscode-pylance",
+    "esbenp.prettier-vscode",
+    "ms-azuretools.vscode-docker"
+  ],
+  "mounts": [
+    "source=${localWorkspaceFolder}/data,target=/workspace/data,type=bind,consistency=cached"
+  ],
+  "containerEnv": {
+    "PYTHONUNBUFFERED": "1"
+  }
 }
+
