@@ -1,0 +1,81 @@
+2025-10-24 10:12:33,999 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:13:01,384 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:13:13,072 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:14:52,719 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:14:52,719 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 10:14:52,719 - SwashModelWrapper - WARNING - Parameter Tp is not in the default_parameters
+2025-10-24 10:14:52,720 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 10:14:52,720 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 10:14:52,720 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 10:23:20,716 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:23:20,716 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 10:23:20,717 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 10:23:20,717 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 10:23:20,717 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 10:23:20,717 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 10:32:52,952 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:32:52,953 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 10:32:52,953 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 10:32:52,953 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 10:32:52,953 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 10:32:52,953 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 10:40:02,593 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:40:02,595 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 10:40:02,596 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 10:40:02,596 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 10:40:02,596 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 10:40:02,596 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 10:41:45,449 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:41:45,450 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 10:41:45,451 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 10:41:45,451 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 10:41:45,451 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 10:41:45,451 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 10:42:25,973 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:42:25,973 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 10:42:25,973 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 10:42:25,973 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 10:42:25,974 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 10:42:25,974 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 10:58:48,626 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 10:58:48,626 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 10:58:48,626 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 10:58:48,627 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 10:58:48,627 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 10:58:48,627 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 11:02:15,252 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 11:02:15,283 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 11:02:15,283 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 11:02:15,283 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 11:02:15,283 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 11:02:15,283 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 11:05:20,638 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 11:05:20,638 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 11:05:20,638 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 11:05:20,638 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 11:05:20,638 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 11:05:20,638 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 11:05:36,875 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 11:05:36,875 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 11:05:36,875 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 11:05:36,875 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 11:05:36,876 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 11:05:36,876 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 11:05:36,892 - SwashModelWrapper - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-24 11:05:36,892 - SwashModelWrapper - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-24 11:13:27,594 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 11:13:27,594 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 11:13:27,594 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 11:13:27,594 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 11:13:27,594 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 11:13:27,594 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 11:13:27,606 - SwashModelWrapper - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-24 11:13:27,606 - SwashModelWrapper - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-24 11:14:01,820 - SwashModelWrapper - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 11:14:01,820 - SwashModelWrapper - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 11:14:01,820 - SwashModelWrapper - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 11:14:01,820 - SwashModelWrapper - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 11:14:01,821 - SwashModelWrapper - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 11:14:01,821 - SwashModelWrapper - INFO - Templates names: ['INPUT']
+2025-10-24 11:14:01,832 - SwashModelWrapper - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-24 11:14:01,832 - SwashModelWrapper - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases

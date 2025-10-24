@@ -1,1 +1,4 @@
 bluemath_tk
+numba
+h5py
+prettytable

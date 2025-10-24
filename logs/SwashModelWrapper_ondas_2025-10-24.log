@@ -1,0 +1,24 @@
+2025-10-24 11:14:56,847 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-24 11:14:56,847 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-24 11:14:56,847 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-24 11:14:56,847 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-24 11:14:56,847 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates will be used.
+2025-10-24 11:14:56,847 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-24 11:14:56,861 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-24 11:14:56,862 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-24 11:16:09,393 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/0000 with launcher=swash_serial.exe.
+2025-10-24 11:16:09,405 - SwashModelWrapper_ondas - ERROR - Error running command: swash_serial.exe
+2025-10-24 11:16:09,406 - SwashModelWrapper_ondas - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 127.
+2025-10-24 11:16:09,407 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-24 11:17:17,451 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/0000 with launcher=docker run --rm -v .:/case_dir -w /case_dir geoocean/rocky8 swash_serial.exe.
+2025-10-24 11:17:17,454 - SwashModelWrapper_ondas - ERROR - Error running command: docker run --rm -v .:/case_dir -w /case_dir geoocean/rocky8 swash_serial.exe
+2025-10-24 11:17:17,455 - SwashModelWrapper_ondas - ERROR - Error: Command 'docker run --rm -v .:/case_dir -w /case_dir geoocean/rocky8 swash_serial.exe' returned non-zero exit status 127.
+2025-10-24 11:17:17,455 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-24 11:18:51,507 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/0000 with launcher=swash_serial.exe.
+2025-10-24 11:18:51,509 - SwashModelWrapper_ondas - ERROR - Error running command: swash_serial.exe
+2025-10-24 11:18:51,511 - SwashModelWrapper_ondas - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 127.
+2025-10-24 11:18:51,512 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-24 11:22:18,388 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/0000 with launcher=docker run --rm -v .:/case_dir -w /case_dir geoocean/rocky8 swash_serial.exe.
+2025-10-24 11:22:18,395 - SwashModelWrapper_ondas - ERROR - Error running command: docker run --rm -v .:/case_dir -w /case_dir geoocean/rocky8 swash_serial.exe
+2025-10-24 11:22:18,395 - SwashModelWrapper_ondas - ERROR - Error: Command 'docker run --rm -v .:/case_dir -w /case_dir geoocean/rocky8 swash_serial.exe' returned non-zero exit status 127.
+2025-10-24 11:22:18,396 - SwashModelWrapper_ondas - INFO - All cases executed.
