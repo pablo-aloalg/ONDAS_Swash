@@ -34,7 +34,6 @@ def plot_case_config(x, z, wave_height, wave_period, WL, save_path=None):
 
     ax.legend()
     ax.set_xlim(x[0], x[-1])
-    ax.set_ylim(np.min(z)-1, np.max(z)+wave_height+1)
 
     textstr = f"Hs = {wave_height:.2f} m\nWL = {WL:.2f} m\nTp = {wave_period:.2f} s"
     ax.text(
