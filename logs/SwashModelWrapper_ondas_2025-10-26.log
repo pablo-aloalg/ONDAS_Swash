@@ -1,0 +1,297 @@
+2025-10-26 11:17:43,395 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:17:43,395 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:17:43,395 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:17:43,395 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:17:43,395 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:17:43,395 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:17:43,409 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:17:43,410 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:17:43,417 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:18:20,131 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 11:18:20,141 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 11:18:29,253 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 11:41:46,442 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:41:46,444 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:41:46,444 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:41:46,444 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:41:46,444 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:41:46,444 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:41:46,458 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:41:46,458 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:41:46,464 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:42:13,160 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 11:42:13,169 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 11:42:17,834 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 11:43:45,307 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:43:45,311 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:43:45,312 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:43:45,313 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:43:45,314 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:43:45,315 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:43:45,426 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:43:45,426 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:43:45,497 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:45:14,661 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:45:14,662 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:45:14,662 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:45:14,662 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:45:14,662 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:45:14,662 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:45:14,684 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:45:14,684 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:45:14,691 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:45:44,562 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 11:45:44,572 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 11:45:48,663 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 11:47:29,567 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:47:29,567 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:47:29,567 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:47:29,567 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:47:29,567 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:47:29,568 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:47:29,587 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:47:29,587 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:47:29,600 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:48:14,546 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 11:48:14,555 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 11:48:21,468 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 11:50:21,361 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:50:21,361 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:50:21,362 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:50:21,362 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:50:21,362 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:50:21,362 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:50:21,384 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:50:21,385 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:50:21,394 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:50:50,116 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:50:50,116 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:50:50,116 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:50:50,116 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:50:50,117 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:50:50,117 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:50:50,136 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:50:50,137 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:50:50,145 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:51:34,779 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 11:51:34,787 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 11:51:41,340 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 11:57:28,530 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:57:28,532 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:57:28,532 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:57:28,532 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:57:28,532 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:57:28,532 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:57:28,551 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:57:28,551 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:57:28,565 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:57:52,208 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 11:57:52,249 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 11:57:53,627 - SwashModelWrapper_ondas - ERROR - Output not postprocessed for case 0. Error: [Errno 13] Permission denied: '/workspaces/ONDAS_Swash/cases/standing/output.nc'.
+2025-10-26 11:58:20,676 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 11:58:20,676 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 11:58:20,676 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 11:58:20,676 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 11:58:20,677 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 11:58:20,677 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 11:58:20,872 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:58:20,872 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 11:58:20,882 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 11:58:47,135 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 11:58:47,160 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 11:58:50,552 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:01:02,119 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:01:02,123 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:01:02,124 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:01:02,125 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:01:02,125 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:01:02,127 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:01:02,143 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:01:02,143 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:01:02,153 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:01:32,047 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:01:32,052 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:01:32,055 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:01:32,056 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:01:32,056 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:01:32,061 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:01:32,103 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:01:32,104 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:01:32,143 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:02:02,616 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:02:02,625 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:02:06,908 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:05:34,934 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:05:34,940 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:05:34,940 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:05:34,942 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:05:34,942 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:05:34,943 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:05:34,964 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:05:34,965 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:05:34,998 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:05:56,587 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:05:56,597 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:05:57,237 - SwashModelWrapper_ondas - ERROR - Output not postprocessed for case 0. Error: [Errno 13] Permission denied: '/workspaces/ONDAS_Swash/cases/standing/output.nc'.
+2025-10-26 12:07:32,604 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:07:32,604 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:07:32,605 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:07:32,605 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:07:32,605 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:07:32,605 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:07:32,624 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:07:32,625 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:07:32,633 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:07:56,064 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:07:56,091 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:07:58,255 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:12:10,808 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:12:10,808 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:12:10,808 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:12:10,809 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:12:10,809 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:12:10,809 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:12:10,827 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:12:10,827 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:12:10,840 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:12:40,685 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:12:40,694 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:12:44,298 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:15:16,994 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:15:16,994 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:15:16,994 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:15:16,994 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:15:16,995 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:15:16,995 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:15:17,026 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:15:17,026 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:15:17,036 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:15:49,144 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:15:49,154 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:15:52,479 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:17:24,856 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:17:24,857 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:17:24,857 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:17:24,858 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:17:24,858 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:17:24,859 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:17:24,886 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:17:24,886 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:17:24,905 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:18:28,934 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:18:28,934 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:18:28,934 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:18:28,934 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:18:28,934 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:18:28,934 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:18:28,952 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:18:28,952 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:18:28,958 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:19:05,838 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:19:05,848 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:19:10,280 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:19:34,959 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:19:34,959 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:19:34,959 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:19:34,959 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:19:34,959 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:19:34,959 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:19:34,974 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:19:34,974 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:19:34,979 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:19:53,870 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:19:53,880 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:19:56,659 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:21:13,000 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:21:13,000 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:21:13,000 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:21:13,000 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:21:13,000 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:21:13,000 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:21:13,018 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:21:13,018 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:21:13,025 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:21:42,504 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:21:42,514 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:21:44,994 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:22:54,901 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:22:54,902 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:22:54,902 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:22:54,902 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:22:54,902 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:22:54,903 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:22:54,918 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:22:54,918 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:22:54,925 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:23:21,644 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:23:21,655 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:23:23,330 - SwashModelWrapper_ondas - ERROR - Output not postprocessed for case 0. Error: [Errno 13] Permission denied: '/workspaces/ONDAS_Swash/cases/standing/output.nc'.
+2025-10-26 12:23:43,376 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:23:43,376 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:23:43,376 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:23:43,376 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:23:43,376 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:23:43,377 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:23:43,393 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:23:43,393 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:23:43,403 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:23:58,745 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:23:58,746 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:23:58,746 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:23:58,746 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:23:58,746 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:23:58,746 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:23:58,763 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:23:58,764 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:23:58,773 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:24:26,924 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:24:26,933 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:24:29,883 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:26:08,089 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:26:08,089 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:26:08,090 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:26:08,090 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:26:08,090 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:26:08,090 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:26:08,105 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:26:08,105 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:26:08,115 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:26:18,857 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:26:18,890 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:26:20,209 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:27:57,544 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:27:57,544 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:27:57,544 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:27:57,544 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:27:57,544 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:27:57,544 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:27:57,670 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:27:57,674 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:27:57,779 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:28:03,974 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:28:03,993 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:28:04,282 - SwashModelWrapper_ondas - ERROR - Output not postprocessed for case 0. Error: [Errno 13] Permission denied: '/workspaces/ONDAS_Swash/cases/standing/output.nc'.
+2025-10-26 12:28:45,492 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:28:45,492 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:28:45,492 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:28:45,492 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:28:45,493 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:28:45,493 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:28:45,505 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:28:45,505 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:28:45,511 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:28:53,792 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:28:53,815 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:28:54,444 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-10-26 12:30:14,987 - SwashModelWrapper_ondas - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:30:14,987 - SwashModelWrapper_ondas - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:30:14,987 - SwashModelWrapper_ondas - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:30:14,987 - SwashModelWrapper_ondas - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:30:14,987 - SwashModelWrapper_ondas - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_standing will be used.
+2025-10-26 12:30:14,987 - SwashModelWrapper_ondas - INFO - Templates names: ['INPUT']
+2025-10-26 12:30:15,004 - SwashModelWrapper_ondas - INFO - 1 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:30:15,004 - SwashModelWrapper_ondas - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases
+2025-10-26 12:30:15,010 - SwashModelWrapper_ondas - INFO - Running case in /workspaces/ONDAS_Swash/cases/standing with launcher=swash_serial.exe.
+2025-10-26 12:30:44,480 - SwashModelWrapper_ondas - INFO - All cases executed.
+2025-10-26 12:30:44,495 - SwashModelWrapper_ondas - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/standing.
+2025-10-26 12:30:48,047 - SwashModelWrapper_ondas - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.

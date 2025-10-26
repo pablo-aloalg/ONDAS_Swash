@@ -28,7 +28,7 @@ SPON E 10
 $
 $Physics
 BREAK 
-FRIC MANNING 0.01
+FRIC MANNING 0.00
 
 $Numerics
 NONHYDrostatic BOX 1. PREConditioner ILU
