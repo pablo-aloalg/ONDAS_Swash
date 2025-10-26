@@ -1,0 +1,266 @@
+2025-10-26 12:54:01,641 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:54:01,641 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 12:54:01,642 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 12:54:01,643 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 12:54:01,643 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 12:54:01,644 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 12:54:01,645 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:54:01,645 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:54:01,645 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:54:01,645 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 12:54:01,646 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 12:56:59,715 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:56:59,715 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 12:56:59,716 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 12:56:59,717 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 12:56:59,718 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 12:56:59,719 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 12:56:59,720 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:56:59,720 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:56:59,720 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:56:59,720 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 12:56:59,720 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 12:57:58,710 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:57:58,710 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 12:57:58,711 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 12:57:58,712 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 12:57:58,713 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 12:57:58,714 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 12:57:58,715 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:57:58,715 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:57:58,715 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:57:58,715 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 12:57:58,715 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 12:58:34,433 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:58:34,433 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 12:58:34,434 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 12:58:34,435 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 12:58:34,435 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 12:58:34,436 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 12:58:34,439 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:58:34,439 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:58:34,439 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:58:34,439 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 12:58:34,439 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 12:59:27,192 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 12:59:27,192 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 12:59:27,193 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 12:59:27,194 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 12:59:27,194 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 12:59:27,195 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 12:59:27,198 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 12:59:27,198 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 12:59:27,198 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 12:59:27,198 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 12:59:27,198 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 13:00:38,885 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 13:00:38,885 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 13:00:38,885 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 13:00:38,887 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 13:00:38,890 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 13:00:38,891 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 13:00:38,893 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 13:00:38,893 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 13:00:38,893 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 13:00:38,893 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 13:00:38,893 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 13:04:00,677 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 13:04:00,678 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 13:04:00,688 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 13:04:00,690 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 13:04:00,692 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 13:04:00,695 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 13:04:00,698 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 13:04:00,698 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 13:04:00,698 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 13:04:00,701 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 13:04:00,701 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 13:04:00,919 - SwashModelWrapper_shoaling - INFO - 13 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:04:00,919 - SwashModelWrapper_shoaling - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:04:20,311 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0000 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,528 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,535 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,535 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0001 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,546 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,549 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,549 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0002 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,559 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,562 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,563 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0003 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,574 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,575 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,576 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0004 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,587 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,589 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,589 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0005 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,606 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,609 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,612 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0006 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,636 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,641 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,649 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0007 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,679 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,680 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,682 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0008 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,708 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,728 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,730 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0009 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,748 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,749 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,749 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0010 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,755 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,755 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,756 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0011 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,761 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,762 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,763 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0012 with launcher=swash_serial.exe.
+2025-10-26 13:04:20,768 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:04:20,769 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:04:20,770 - SwashModelWrapper_shoaling - INFO - All cases executed.
+2025-10-26 13:05:03,967 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 13:05:03,967 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 13:05:03,967 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 13:05:03,968 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 13:05:03,969 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 13:05:03,970 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 13:05:03,971 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 13:05:03,971 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 13:05:03,971 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 13:05:03,971 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 13:05:03,971 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 13:05:04,020 - SwashModelWrapper_shoaling - INFO - 13 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:05:04,020 - SwashModelWrapper_shoaling - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:05:04,025 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0000 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,032 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,033 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,034 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0001 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,039 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,040 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,041 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0002 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,047 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,047 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,048 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0003 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,055 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,056 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,056 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0004 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,062 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,063 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,064 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0005 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,069 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,070 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,071 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0006 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,076 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,082 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,084 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0007 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,094 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,100 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,103 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0008 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,124 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,126 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,127 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0009 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,132 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,133 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,134 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0010 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,140 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,140 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,141 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0011 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,146 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,147 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,148 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0012 with launcher=swash_serial.exe.
+2025-10-26 13:05:04,155 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:05:04,157 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:05:04,158 - SwashModelWrapper_shoaling - INFO - All cases executed.
+2025-10-26 13:09:13,875 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 13:09:13,875 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 13:09:13,877 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 13:09:13,883 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 13:09:13,886 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 13:09:13,888 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 13:09:13,892 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 13:09:13,892 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 13:09:13,892 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 13:09:13,892 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 13:09:13,892 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 13:09:14,038 - SwashModelWrapper_shoaling - INFO - 13 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:09:14,038 - SwashModelWrapper_shoaling - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:09:14,181 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0000 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,190 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,192 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,193 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0001 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,200 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,201 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,202 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0002 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,208 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,209 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,210 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0003 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,223 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,223 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,224 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0004 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,230 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,231 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,231 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0005 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,237 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,238 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,239 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0006 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,245 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,245 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,246 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0007 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,252 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,253 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,253 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0008 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,259 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,260 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,261 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0009 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,266 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,267 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,268 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0010 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,273 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,274 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,275 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0011 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,286 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,287 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,290 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0012 with launcher=swash_serial.exe.
+2025-10-26 13:09:14,301 - SwashModelWrapper_shoaling - ERROR - Error running command: swash_serial.exe
+2025-10-26 13:09:14,302 - SwashModelWrapper_shoaling - ERROR - Error: Command 'swash_serial.exe' returned non-zero exit status 153.
+2025-10-26 13:09:14,304 - SwashModelWrapper_shoaling - INFO - All cases executed.
+2025-10-26 13:10:27,658 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 13:10:27,658 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 13:10:27,659 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 13:10:27,659 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 13:10:27,661 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 13:10:27,662 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 13:10:27,663 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 13:10:27,663 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 13:10:27,663 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 13:10:27,663 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 13:10:27,663 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 13:10:27,733 - SwashModelWrapper_shoaling - INFO - 13 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:10:27,734 - SwashModelWrapper_shoaling - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:10:27,750 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0000 with launcher=swash_serial.exe.
+2025-10-26 13:10:42,590 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-10-26 13:10:42,590 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-10-26 13:10:42,591 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-10-26 13:10:42,592 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-10-26 13:10:42,593 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-10-26 13:10:42,593 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-10-26 13:10:42,594 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-10-26 13:10:42,594 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-10-26 13:10:42,594 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-10-26 13:10:42,594 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-10-26 13:10:42,594 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-10-26 13:10:42,671 - SwashModelWrapper_shoaling - INFO - 13 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:10:42,672 - SwashModelWrapper_shoaling - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/shoaling
+2025-10-26 13:10:42,682 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0000 with launcher=swash_serial.exe.
+2025-10-26 13:11:00,075 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0001 with launcher=swash_serial.exe.
+2025-10-26 13:11:16,671 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0002 with launcher=swash_serial.exe.
+2025-10-26 13:11:32,852 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0003 with launcher=swash_serial.exe.
+2025-10-26 13:11:37,321 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0004 with launcher=swash_serial.exe.
+2025-10-26 13:11:53,323 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0005 with launcher=swash_serial.exe.
+2025-10-26 13:12:08,934 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0006 with launcher=swash_serial.exe.
+2025-10-26 13:12:13,372 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0007 with launcher=swash_serial.exe.
+2025-10-26 13:12:29,306 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0008 with launcher=swash_serial.exe.
+2025-10-26 13:12:45,538 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0009 with launcher=swash_serial.exe.
+2025-10-26 13:13:01,359 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0010 with launcher=swash_serial.exe.
+2025-10-26 13:13:17,017 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0011 with launcher=swash_serial.exe.
+2025-10-26 13:13:32,382 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0012 with launcher=swash_serial.exe.
+2025-10-26 13:13:48,327 - SwashModelWrapper_shoaling - INFO - All cases executed.
