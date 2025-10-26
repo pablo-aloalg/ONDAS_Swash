@@ -22,7 +22,9 @@ $Initial values for flow variables
 INIT ZERO
 $
 $Hydraulic boundary conditions
-BOUNDCOND SIDE W CCW BTYPE WEAK CON REGULAR {{ Hs }} {{ Tp }}
+BOUNd SHAPespec JONswap 3.3 SIG PEAK DSPR DEGR
+BOUNdcond SIDE W CCW BTYPE WEAK ADDBoundwave CON SPECTRUM {{ Hs }} {{ Tp }} 90 0 001500 $SPECTrum [h] [per] [dir] [dd] [cycle] SEC|MIN|HR|DAY
+$BOUNDCOND SIDE W CCW BTYPE WEAK CON REGULAR {{ Hs }} {{ Tp }}
 BOU SIDE E CCW BTYPE RADIATION 
 SPON E 10 
 $
@@ -40,7 +42,7 @@ DISCRET UPW WMOM H NONE
 DISCRET CORR
 $
 $Time integration
-TIMEI 0.1 0.5
+TIMEI 0.1 0.4
 $
 QUANTITY XP hexp=10
 QUANT RUNUP delrp 0.01
