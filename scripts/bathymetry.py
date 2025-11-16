@@ -1,6 +1,47 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+def reef_profile(dx, h0, Slope1, Slope2, Wreef, Wfore, bCrest, emsl):
+    '''
+        Reef morphologic profile (Pearson et al. 2017)
+
+        dx:   bathymetry mesh resolution at x axes (m)
+        h0:      offshore depth (m)
+        Slope1:  fore shore slope
+        Slope2:  inner shore slope
+        Wreef:   reef bed width (m)
+        Wfore:   flume length before fore toe (m)
+        bCrest:  beach heigh (m)
+        emsl:    mean sea level (m)
+
+        return depth data values
+    '''
+
+    # flume length
+    W_inner = bCrest / Slope2
+    W1 = int(h0 / Slope1)
+
+    # sections length
+    x1 = np.arange(0, Wfore,   dx)
+    x2 = np.arange(0, W1,      dx)
+    x3 = np.arange(0, Wreef,   dx)
+    x4 = np.arange(0, W_inner, dx)
+
+    # curve equation
+    y_fore = np.zeros(len(x1)) + [h0]
+    y1 = - Slope1 * x2 + h0
+    y2 = np.zeros(len(x3)) + [0]
+    y_inner = - Slope2 * x4
+
+    # overtopping cases: an inshore plane beach to dissipate overtopped flux
+    plane = 0.005 * np.arange(0, len(y_inner), 1) + y_inner[-1]
+
+    # concatenate depth
+    depth = np.concatenate([y_fore, y1 ,y2, y_inner, plane]) + emsl
+    x = np.arange(0,len(depth),1)
+    return x, -depth
+
+
 def linear_profile(h0, Ltotal, Wconst=0.0, slope=None, hFinal=None, dx=1.0):
 
     if slope is None and hFinal is None:
