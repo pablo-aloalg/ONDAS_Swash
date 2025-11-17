@@ -1,0 +1,124 @@
+2025-11-17 10:28:04,103 - SwashModelWrapper_friction - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-11-17 10:28:04,103 - SwashModelWrapper_friction - WARNING - Parameter friction_coef is not in the default_parameters
+2025-11-17 10:28:04,117 - SwashModelWrapper_friction - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-11-17 10:28:04,117 - SwashModelWrapper_friction - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-11-17 10:28:04,117 - SwashModelWrapper_friction - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-11-17 10:28:04,117 - SwashModelWrapper_friction - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_friction will be used.
+2025-11-17 10:28:04,117 - SwashModelWrapper_friction - INFO - Templates names: ['INPUT']
+2025-11-17 10:28:36,274 - SwashModelWrapper_friction - INFO - 5 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 10:28:36,274 - SwashModelWrapper_friction - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 10:28:46,754 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0000 with launcher=swash_serial.exe.
+2025-11-17 10:29:10,879 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0001 with launcher=swash_serial.exe.
+2025-11-17 10:29:34,314 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0002 with launcher=swash_serial.exe.
+2025-11-17 10:29:57,492 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0003 with launcher=swash_serial.exe.
+2025-11-17 10:30:20,017 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0004 with launcher=swash_serial.exe.
+2025-11-17 10:30:42,541 - SwashModelWrapper_friction - INFO - All cases executed.
+2025-11-17 10:31:25,740 - SwashModelWrapper_friction - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/friction/0000.
+2025-11-17 10:31:31,789 - SwashModelWrapper_friction - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 10:31:31,802 - SwashModelWrapper_friction - INFO - [1]: Postprocessing case 1 in /workspaces/ONDAS_Swash/cases/friction/0001.
+2025-11-17 10:31:36,889 - SwashModelWrapper_friction - INFO - [1]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 10:31:36,897 - SwashModelWrapper_friction - INFO - [2]: Postprocessing case 2 in /workspaces/ONDAS_Swash/cases/friction/0002.
+2025-11-17 10:31:42,018 - SwashModelWrapper_friction - INFO - [2]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 10:31:42,025 - SwashModelWrapper_friction - INFO - [3]: Postprocessing case 3 in /workspaces/ONDAS_Swash/cases/friction/0003.
+2025-11-17 10:31:47,625 - SwashModelWrapper_friction - INFO - [3]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 10:31:47,632 - SwashModelWrapper_friction - INFO - [4]: Postprocessing case 4 in /workspaces/ONDAS_Swash/cases/friction/0004.
+2025-11-17 10:31:52,680 - SwashModelWrapper_friction - INFO - [4]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:23:16,828 - SwashModelWrapper_friction - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-11-17 11:23:16,902 - SwashModelWrapper_friction - WARNING - Parameter friction_coef is not in the default_parameters
+2025-11-17 11:23:16,905 - SwashModelWrapper_friction - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-11-17 11:23:16,906 - SwashModelWrapper_friction - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-11-17 11:23:16,907 - SwashModelWrapper_friction - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-11-17 11:23:16,907 - SwashModelWrapper_friction - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_friction will be used.
+2025-11-17 11:23:16,907 - SwashModelWrapper_friction - INFO - Templates names: ['INPUT']
+2025-11-17 11:23:16,993 - SwashModelWrapper_friction - INFO - 5 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 11:23:16,993 - SwashModelWrapper_friction - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 11:23:17,002 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0000 with launcher=swash_serial.exe.
+2025-11-17 11:23:44,597 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0001 with launcher=swash_serial.exe.
+2025-11-17 11:24:11,588 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0002 with launcher=swash_serial.exe.
+2025-11-17 11:24:38,726 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0003 with launcher=swash_serial.exe.
+2025-11-17 11:25:05,439 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0004 with launcher=swash_serial.exe.
+2025-11-17 11:25:32,518 - SwashModelWrapper_friction - INFO - All cases executed.
+2025-11-17 11:25:32,525 - SwashModelWrapper_friction - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/friction/0000.
+2025-11-17 11:25:37,092 - SwashModelWrapper_friction - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:25:37,103 - SwashModelWrapper_friction - INFO - [1]: Postprocessing case 1 in /workspaces/ONDAS_Swash/cases/friction/0001.
+2025-11-17 11:25:41,597 - SwashModelWrapper_friction - INFO - [1]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:25:41,605 - SwashModelWrapper_friction - INFO - [2]: Postprocessing case 2 in /workspaces/ONDAS_Swash/cases/friction/0002.
+2025-11-17 11:25:46,029 - SwashModelWrapper_friction - INFO - [2]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:25:46,075 - SwashModelWrapper_friction - INFO - [3]: Postprocessing case 3 in /workspaces/ONDAS_Swash/cases/friction/0003.
+2025-11-17 11:25:50,442 - SwashModelWrapper_friction - INFO - [3]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:25:50,452 - SwashModelWrapper_friction - INFO - [4]: Postprocessing case 4 in /workspaces/ONDAS_Swash/cases/friction/0004.
+2025-11-17 11:25:54,788 - SwashModelWrapper_friction - INFO - [4]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:27:17,776 - SwashModelWrapper_friction - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-11-17 11:27:17,776 - SwashModelWrapper_friction - WARNING - Parameter friction_coef is not in the default_parameters
+2025-11-17 11:27:17,777 - SwashModelWrapper_friction - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-11-17 11:27:17,777 - SwashModelWrapper_friction - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-11-17 11:27:17,777 - SwashModelWrapper_friction - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-11-17 11:27:17,777 - SwashModelWrapper_friction - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_friction will be used.
+2025-11-17 11:27:17,777 - SwashModelWrapper_friction - INFO - Templates names: ['INPUT']
+2025-11-17 11:27:18,198 - SwashModelWrapper_friction - INFO - 5 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 11:27:18,198 - SwashModelWrapper_friction - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 11:27:19,932 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0000 with launcher=swash_serial.exe.
+2025-11-17 11:28:56,433 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0001 with launcher=swash_serial.exe.
+2025-11-17 11:30:23,392 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0002 with launcher=swash_serial.exe.
+2025-11-17 11:31:49,598 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0003 with launcher=swash_serial.exe.
+2025-11-17 11:33:14,672 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0004 with launcher=swash_serial.exe.
+2025-11-17 11:34:40,219 - SwashModelWrapper_friction - INFO - All cases executed.
+2025-11-17 11:34:40,349 - SwashModelWrapper_friction - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/friction/0000.
+2025-11-17 11:34:51,106 - SwashModelWrapper_friction - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:34:51,120 - SwashModelWrapper_friction - INFO - [1]: Postprocessing case 1 in /workspaces/ONDAS_Swash/cases/friction/0001.
+2025-11-17 11:35:01,461 - SwashModelWrapper_friction - INFO - [1]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:35:01,471 - SwashModelWrapper_friction - INFO - [2]: Postprocessing case 2 in /workspaces/ONDAS_Swash/cases/friction/0002.
+2025-11-17 11:35:13,251 - SwashModelWrapper_friction - INFO - [2]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:35:13,273 - SwashModelWrapper_friction - INFO - [3]: Postprocessing case 3 in /workspaces/ONDAS_Swash/cases/friction/0003.
+2025-11-17 11:35:25,948 - SwashModelWrapper_friction - INFO - [3]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:35:25,988 - SwashModelWrapper_friction - INFO - [4]: Postprocessing case 4 in /workspaces/ONDAS_Swash/cases/friction/0004.
+2025-11-17 11:35:40,396 - SwashModelWrapper_friction - INFO - [4]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:38:54,462 - SwashModelWrapper_friction - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-11-17 11:38:54,464 - SwashModelWrapper_friction - WARNING - Parameter friction_coef is not in the default_parameters
+2025-11-17 11:38:54,467 - SwashModelWrapper_friction - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-11-17 11:38:54,467 - SwashModelWrapper_friction - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-11-17 11:38:54,469 - SwashModelWrapper_friction - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-11-17 11:38:54,469 - SwashModelWrapper_friction - WARNING - Parameter pos_ini is not in the default_parameters
+2025-11-17 11:38:54,470 - SwashModelWrapper_friction - WARNING - Parameter pos_fin is not in the default_parameters
+2025-11-17 11:38:54,470 - SwashModelWrapper_friction - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_friction will be used.
+2025-11-17 11:38:54,470 - SwashModelWrapper_friction - INFO - Templates names: ['INPUT']
+2025-11-17 11:38:54,618 - SwashModelWrapper_friction - INFO - 5 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 11:38:54,618 - SwashModelWrapper_friction - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 11:38:54,627 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0000 with launcher=swash_serial.exe.
+2025-11-17 11:38:54,654 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0001 with launcher=swash_serial.exe.
+2025-11-17 11:38:54,663 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0002 with launcher=swash_serial.exe.
+2025-11-17 11:38:54,671 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0003 with launcher=swash_serial.exe.
+2025-11-17 11:38:54,695 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0004 with launcher=swash_serial.exe.
+2025-11-17 11:38:54,709 - SwashModelWrapper_friction - INFO - All cases executed.
+2025-11-17 11:38:54,720 - SwashModelWrapper_friction - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/friction/0000.
+2025-11-17 11:39:04,996 - SwashModelWrapper_friction - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:39:05,025 - SwashModelWrapper_friction - INFO - [1]: Postprocessing case 1 in /workspaces/ONDAS_Swash/cases/friction/0001.
+2025-11-17 11:39:16,705 - SwashModelWrapper_friction - INFO - [1]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:39:16,730 - SwashModelWrapper_friction - INFO - [2]: Postprocessing case 2 in /workspaces/ONDAS_Swash/cases/friction/0002.
+2025-11-17 11:39:32,343 - SwashModelWrapper_friction - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-11-17 11:39:32,343 - SwashModelWrapper_friction - WARNING - Parameter friction_coef is not in the default_parameters
+2025-11-17 11:39:32,344 - SwashModelWrapper_friction - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-11-17 11:39:32,345 - SwashModelWrapper_friction - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-11-17 11:39:32,345 - SwashModelWrapper_friction - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-11-17 11:39:32,345 - SwashModelWrapper_friction - WARNING - Parameter pos_ini is not in the default_parameters
+2025-11-17 11:39:32,345 - SwashModelWrapper_friction - WARNING - Parameter pos_fin is not in the default_parameters
+2025-11-17 11:39:32,346 - SwashModelWrapper_friction - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_friction will be used.
+2025-11-17 11:39:32,346 - SwashModelWrapper_friction - INFO - Templates names: ['INPUT']
+2025-11-17 11:39:32,475 - SwashModelWrapper_friction - INFO - 5 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 11:39:32,475 - SwashModelWrapper_friction - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 11:39:32,495 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0000 with launcher=swash_serial.exe.
+2025-11-17 11:40:58,096 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0001 with launcher=swash_serial.exe.
+2025-11-17 11:42:22,762 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0002 with launcher=swash_serial.exe.
+2025-11-17 11:43:47,577 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0003 with launcher=swash_serial.exe.
+2025-11-17 11:45:11,897 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0004 with launcher=swash_serial.exe.
+2025-11-17 11:46:37,192 - SwashModelWrapper_friction - INFO - All cases executed.
+2025-11-17 11:46:37,203 - SwashModelWrapper_friction - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/friction/0000.
+2025-11-17 11:46:47,243 - SwashModelWrapper_friction - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:46:47,255 - SwashModelWrapper_friction - INFO - [1]: Postprocessing case 1 in /workspaces/ONDAS_Swash/cases/friction/0001.
+2025-11-17 11:46:57,792 - SwashModelWrapper_friction - INFO - [1]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:46:57,804 - SwashModelWrapper_friction - INFO - [2]: Postprocessing case 2 in /workspaces/ONDAS_Swash/cases/friction/0002.
+2025-11-17 11:47:08,034 - SwashModelWrapper_friction - INFO - [2]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:47:08,228 - SwashModelWrapper_friction - INFO - [3]: Postprocessing case 3 in /workspaces/ONDAS_Swash/cases/friction/0003.
+2025-11-17 11:47:19,128 - SwashModelWrapper_friction - INFO - [3]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 11:47:19,156 - SwashModelWrapper_friction - INFO - [4]: Postprocessing case 4 in /workspaces/ONDAS_Swash/cases/friction/0004.
+2025-11-17 11:47:29,785 - SwashModelWrapper_friction - INFO - [4]: Creating new output_postprocessed.nc file from output.nc.

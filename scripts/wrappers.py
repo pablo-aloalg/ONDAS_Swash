@@ -15,6 +15,25 @@ class SwashModelWrapper_ondas(SwashModelWrapper):
         # Save depth.bot
         np.savetxt(op.join(case_dir, "depth.bot"), self.depth_array)
  
+class SwashModelWrapper_friction(SwashModelWrapper):
+    """
+    Wrapper for the SWASH model with vegetation.
+    """
+    def build_case(self, case_context: dict, case_dir: str) -> None:
+
+        super().build_case(case_context=case_context, case_dir=case_dir)
+
+        # Save depth.bot
+        np.savetxt(op.join(case_dir, "depth.bot"), self.depth_array)
+
+        friction_array = np.zeros(len(self.depth_array))
+
+        pos_ini = case_context['pos_ini']
+        pos_fin = case_context['pos_fin']
+        
+        friction_array[pos_ini:pos_fin] = friction_array[pos_ini:pos_fin] + case_context['friction_coef']
+        np.savetxt(op.join(case_dir, 'friction.txt'), friction_array)
+
 class SwashModelWrapper_shoaling(SwashModelWrapper):
     """
     Wrapper for the SWASH model with vegetation.
