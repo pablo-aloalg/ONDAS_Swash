@@ -122,3 +122,30 @@
 2025-11-17 11:47:19,128 - SwashModelWrapper_friction - INFO - [3]: Creating new output_postprocessed.nc file from output.nc.
 2025-11-17 11:47:19,156 - SwashModelWrapper_friction - INFO - [4]: Postprocessing case 4 in /workspaces/ONDAS_Swash/cases/friction/0004.
 2025-11-17 11:47:29,785 - SwashModelWrapper_friction - INFO - [4]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 15:19:43,843 - SwashModelWrapper_friction - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-11-17 15:19:43,848 - SwashModelWrapper_friction - WARNING - Parameter friction_coef is not in the default_parameters
+2025-11-17 15:19:43,854 - SwashModelWrapper_friction - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-11-17 15:19:43,855 - SwashModelWrapper_friction - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-11-17 15:19:43,855 - SwashModelWrapper_friction - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-11-17 15:19:43,855 - SwashModelWrapper_friction - WARNING - Parameter pos_ini is not in the default_parameters
+2025-11-17 15:19:43,859 - SwashModelWrapper_friction - WARNING - Parameter pos_fin is not in the default_parameters
+2025-11-17 15:19:43,861 - SwashModelWrapper_friction - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_friction will be used.
+2025-11-17 15:19:43,862 - SwashModelWrapper_friction - INFO - Templates names: ['INPUT']
+2025-11-17 15:19:43,974 - SwashModelWrapper_friction - INFO - 5 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 15:19:43,975 - SwashModelWrapper_friction - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/friction
+2025-11-17 15:19:43,982 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0000 with launcher=swash_serial.exe.
+2025-11-17 15:21:13,359 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0001 with launcher=swash_serial.exe.
+2025-11-17 15:22:51,389 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0002 with launcher=swash_serial.exe.
+2025-11-17 15:24:27,627 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0003 with launcher=swash_serial.exe.
+2025-11-17 15:26:03,477 - SwashModelWrapper_friction - INFO - Running case in /workspaces/ONDAS_Swash/cases/friction/0004 with launcher=swash_serial.exe.
+2025-11-17 15:27:39,381 - SwashModelWrapper_friction - INFO - All cases executed.
+2025-11-17 15:27:39,502 - SwashModelWrapper_friction - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/friction/0000.
+2025-11-17 15:27:50,751 - SwashModelWrapper_friction - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 15:27:50,761 - SwashModelWrapper_friction - INFO - [1]: Postprocessing case 1 in /workspaces/ONDAS_Swash/cases/friction/0001.
+2025-11-17 15:28:01,882 - SwashModelWrapper_friction - INFO - [1]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 15:28:01,890 - SwashModelWrapper_friction - INFO - [2]: Postprocessing case 2 in /workspaces/ONDAS_Swash/cases/friction/0002.
+2025-11-17 15:28:11,284 - SwashModelWrapper_friction - INFO - [2]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 15:28:11,295 - SwashModelWrapper_friction - INFO - [3]: Postprocessing case 3 in /workspaces/ONDAS_Swash/cases/friction/0003.
+2025-11-17 15:28:21,261 - SwashModelWrapper_friction - INFO - [3]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 15:28:21,269 - SwashModelWrapper_friction - INFO - [4]: Postprocessing case 4 in /workspaces/ONDAS_Swash/cases/friction/0004.
+2025-11-17 15:28:31,129 - SwashModelWrapper_friction - INFO - [4]: Creating new output_postprocessed.nc file from output.nc.

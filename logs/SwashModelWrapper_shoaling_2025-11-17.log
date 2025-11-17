@@ -51,3 +51,109 @@
 2025-11-17 08:55:17,383 - SwashModelWrapper_shoaling - INFO - [11]: Creating new output_postprocessed.nc file from output.nc.
 2025-11-17 08:55:17,388 - SwashModelWrapper_shoaling - INFO - [12]: Postprocessing case 12 in /workspaces/ONDAS_Swash/cases/shoaling/0012.
 2025-11-17 08:55:20,679 - SwashModelWrapper_shoaling - INFO - [12]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:30:19,477 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-11-17 12:30:19,477 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-11-17 12:30:19,478 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-11-17 12:30:19,479 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-11-17 12:30:19,480 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-11-17 12:30:19,480 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-11-17 12:30:19,481 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-11-17 12:30:19,481 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-11-17 12:30:19,481 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-11-17 12:30:19,482 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-11-17 12:30:19,482 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-11-17 12:30:19,620 - SwashModelWrapper_shoaling - INFO - 13 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/shoaling
+2025-11-17 12:30:19,620 - SwashModelWrapper_shoaling - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/shoaling
+2025-11-17 12:30:19,634 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0000 with launcher=swash_serial.exe.
+2025-11-17 12:30:44,104 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0001 with launcher=swash_serial.exe.
+2025-11-17 12:31:11,387 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0002 with launcher=swash_serial.exe.
+2025-11-17 12:31:38,033 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0003 with launcher=swash_serial.exe.
+2025-11-17 12:32:04,746 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0004 with launcher=swash_serial.exe.
+2025-11-17 12:32:31,040 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0005 with launcher=swash_serial.exe.
+2025-11-17 12:32:57,671 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0006 with launcher=swash_serial.exe.
+2025-11-17 12:33:23,555 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0007 with launcher=swash_serial.exe.
+2025-11-17 12:33:49,578 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0008 with launcher=swash_serial.exe.
+2025-11-17 12:34:15,316 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0009 with launcher=swash_serial.exe.
+2025-11-17 12:34:41,492 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0010 with launcher=swash_serial.exe.
+2025-11-17 12:35:33,457 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0011 with launcher=swash_serial.exe.
+2025-11-17 12:36:05,449 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0012 with launcher=swash_serial.exe.
+2025-11-17 12:36:32,236 - SwashModelWrapper_shoaling - INFO - All cases executed.
+2025-11-17 12:36:32,245 - SwashModelWrapper_shoaling - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/shoaling/0000.
+2025-11-17 12:36:36,717 - SwashModelWrapper_shoaling - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:36:36,725 - SwashModelWrapper_shoaling - INFO - [1]: Postprocessing case 1 in /workspaces/ONDAS_Swash/cases/shoaling/0001.
+2025-11-17 12:36:40,901 - SwashModelWrapper_shoaling - INFO - [1]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:36:40,908 - SwashModelWrapper_shoaling - INFO - [2]: Postprocessing case 2 in /workspaces/ONDAS_Swash/cases/shoaling/0002.
+2025-11-17 12:36:44,718 - SwashModelWrapper_shoaling - INFO - [2]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:36:44,728 - SwashModelWrapper_shoaling - INFO - [3]: Postprocessing case 3 in /workspaces/ONDAS_Swash/cases/shoaling/0003.
+2025-11-17 12:36:48,779 - SwashModelWrapper_shoaling - INFO - [3]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:36:48,785 - SwashModelWrapper_shoaling - INFO - [4]: Postprocessing case 4 in /workspaces/ONDAS_Swash/cases/shoaling/0004.
+2025-11-17 12:36:52,300 - SwashModelWrapper_shoaling - INFO - [4]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:36:52,307 - SwashModelWrapper_shoaling - INFO - [5]: Postprocessing case 5 in /workspaces/ONDAS_Swash/cases/shoaling/0005.
+2025-11-17 12:36:56,143 - SwashModelWrapper_shoaling - INFO - [5]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:36:56,149 - SwashModelWrapper_shoaling - INFO - [6]: Postprocessing case 6 in /workspaces/ONDAS_Swash/cases/shoaling/0006.
+2025-11-17 12:36:59,642 - SwashModelWrapper_shoaling - INFO - [6]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:36:59,648 - SwashModelWrapper_shoaling - INFO - [7]: Postprocessing case 7 in /workspaces/ONDAS_Swash/cases/shoaling/0007.
+2025-11-17 12:37:03,433 - SwashModelWrapper_shoaling - INFO - [7]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:37:03,439 - SwashModelWrapper_shoaling - INFO - [8]: Postprocessing case 8 in /workspaces/ONDAS_Swash/cases/shoaling/0008.
+2025-11-17 12:37:07,605 - SwashModelWrapper_shoaling - INFO - [8]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:37:07,611 - SwashModelWrapper_shoaling - INFO - [9]: Postprocessing case 9 in /workspaces/ONDAS_Swash/cases/shoaling/0009.
+2025-11-17 12:37:10,990 - SwashModelWrapper_shoaling - INFO - [9]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:37:10,996 - SwashModelWrapper_shoaling - INFO - [10]: Postprocessing case 10 in /workspaces/ONDAS_Swash/cases/shoaling/0010.
+2025-11-17 12:37:14,660 - SwashModelWrapper_shoaling - INFO - [10]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:37:14,666 - SwashModelWrapper_shoaling - INFO - [11]: Postprocessing case 11 in /workspaces/ONDAS_Swash/cases/shoaling/0011.
+2025-11-17 12:37:18,745 - SwashModelWrapper_shoaling - INFO - [11]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 12:37:18,752 - SwashModelWrapper_shoaling - INFO - [12]: Postprocessing case 12 in /workspaces/ONDAS_Swash/cases/shoaling/0012.
+2025-11-17 12:37:22,537 - SwashModelWrapper_shoaling - INFO - [12]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:17:36,654 - SwashModelWrapper_shoaling - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2025-11-17 14:17:36,655 - SwashModelWrapper_shoaling - WARNING - Parameter factor is not in the default_parameters
+2025-11-17 14:17:36,656 - SwashModelWrapper_shoaling - WARNING - Parameter m is not in the default_parameters
+2025-11-17 14:17:36,657 - SwashModelWrapper_shoaling - WARNING - Parameter Ltotal is not in the default_parameters
+2025-11-17 14:17:36,657 - SwashModelWrapper_shoaling - WARNING - Parameter h0 is not in the default_parameters
+2025-11-17 14:17:36,658 - SwashModelWrapper_shoaling - WARNING - Parameter Wfore is not in the default_parameters
+2025-11-17 14:17:36,659 - SwashModelWrapper_shoaling - INFO - Parameter Hs has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Significant wave height.'}
+2025-11-17 14:17:36,659 - SwashModelWrapper_shoaling - INFO - Parameter Hs_L0 has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Wave height at deep water.'}
+2025-11-17 14:17:36,659 - SwashModelWrapper_shoaling - INFO - Parameter WL has the correct type: {'type': <class 'float'>, 'value': None, 'description': 'Water level.'}
+2025-11-17 14:17:36,659 - SwashModelWrapper_shoaling - INFO - Templates name is 'all', so all templates in /workspaces/ONDAS_Swash/templates/templates_shoaling will be used.
+2025-11-17 14:17:36,659 - SwashModelWrapper_shoaling - INFO - Templates names: ['INPUT']
+2025-11-17 14:17:36,771 - SwashModelWrapper_shoaling - INFO - 13 cases created in one_by_one mode and saved in /workspaces/ONDAS_Swash/cases/shoaling
+2025-11-17 14:17:36,771 - SwashModelWrapper_shoaling - INFO - SBATCH example file generated in /workspaces/ONDAS_Swash/cases/shoaling
+2025-11-17 14:17:36,785 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0000 with launcher=swash_serial.exe.
+2025-11-17 14:17:58,318 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0001 with launcher=swash_serial.exe.
+2025-11-17 14:18:19,151 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0002 with launcher=swash_serial.exe.
+2025-11-17 14:18:39,494 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0003 with launcher=swash_serial.exe.
+2025-11-17 14:18:59,509 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0004 with launcher=swash_serial.exe.
+2025-11-17 14:19:19,977 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0005 with launcher=swash_serial.exe.
+2025-11-17 14:19:39,783 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0006 with launcher=swash_serial.exe.
+2025-11-17 14:19:59,576 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0007 with launcher=swash_serial.exe.
+2025-11-17 14:20:18,958 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0008 with launcher=swash_serial.exe.
+2025-11-17 14:20:38,630 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0009 with launcher=swash_serial.exe.
+2025-11-17 14:20:58,712 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0010 with launcher=swash_serial.exe.
+2025-11-17 14:21:18,206 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0011 with launcher=swash_serial.exe.
+2025-11-17 14:21:37,628 - SwashModelWrapper_shoaling - INFO - Running case in /workspaces/ONDAS_Swash/cases/shoaling/0012 with launcher=swash_serial.exe.
+2025-11-17 14:21:56,976 - SwashModelWrapper_shoaling - INFO - All cases executed.
+2025-11-17 14:21:56,984 - SwashModelWrapper_shoaling - INFO - [0]: Postprocessing case 0 in /workspaces/ONDAS_Swash/cases/shoaling/0000.
+2025-11-17 14:22:01,170 - SwashModelWrapper_shoaling - INFO - [0]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:01,196 - SwashModelWrapper_shoaling - INFO - [1]: Postprocessing case 1 in /workspaces/ONDAS_Swash/cases/shoaling/0001.
+2025-11-17 14:22:04,516 - SwashModelWrapper_shoaling - INFO - [1]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:04,579 - SwashModelWrapper_shoaling - INFO - [2]: Postprocessing case 2 in /workspaces/ONDAS_Swash/cases/shoaling/0002.
+2025-11-17 14:22:07,917 - SwashModelWrapper_shoaling - INFO - [2]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:07,924 - SwashModelWrapper_shoaling - INFO - [3]: Postprocessing case 3 in /workspaces/ONDAS_Swash/cases/shoaling/0003.
+2025-11-17 14:22:11,395 - SwashModelWrapper_shoaling - INFO - [3]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:11,427 - SwashModelWrapper_shoaling - INFO - [4]: Postprocessing case 4 in /workspaces/ONDAS_Swash/cases/shoaling/0004.
+2025-11-17 14:22:14,772 - SwashModelWrapper_shoaling - INFO - [4]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:14,886 - SwashModelWrapper_shoaling - INFO - [5]: Postprocessing case 5 in /workspaces/ONDAS_Swash/cases/shoaling/0005.
+2025-11-17 14:22:18,474 - SwashModelWrapper_shoaling - INFO - [5]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:18,511 - SwashModelWrapper_shoaling - INFO - [6]: Postprocessing case 6 in /workspaces/ONDAS_Swash/cases/shoaling/0006.
+2025-11-17 14:22:21,776 - SwashModelWrapper_shoaling - INFO - [6]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:21,862 - SwashModelWrapper_shoaling - INFO - [7]: Postprocessing case 7 in /workspaces/ONDAS_Swash/cases/shoaling/0007.
+2025-11-17 14:22:25,508 - SwashModelWrapper_shoaling - INFO - [7]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:25,583 - SwashModelWrapper_shoaling - INFO - [8]: Postprocessing case 8 in /workspaces/ONDAS_Swash/cases/shoaling/0008.
+2025-11-17 14:22:29,024 - SwashModelWrapper_shoaling - INFO - [8]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:29,064 - SwashModelWrapper_shoaling - INFO - [9]: Postprocessing case 9 in /workspaces/ONDAS_Swash/cases/shoaling/0009.
+2025-11-17 14:22:32,297 - SwashModelWrapper_shoaling - INFO - [9]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:32,321 - SwashModelWrapper_shoaling - INFO - [10]: Postprocessing case 10 in /workspaces/ONDAS_Swash/cases/shoaling/0010.
+2025-11-17 14:22:35,901 - SwashModelWrapper_shoaling - INFO - [10]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:35,935 - SwashModelWrapper_shoaling - INFO - [11]: Postprocessing case 11 in /workspaces/ONDAS_Swash/cases/shoaling/0011.
+2025-11-17 14:22:39,138 - SwashModelWrapper_shoaling - INFO - [11]: Creating new output_postprocessed.nc file from output.nc.
+2025-11-17 14:22:39,205 - SwashModelWrapper_shoaling - INFO - [12]: Postprocessing case 12 in /workspaces/ONDAS_Swash/cases/shoaling/0012.
+2025-11-17 14:22:42,535 - SwashModelWrapper_shoaling - INFO - [12]: Creating new output_postprocessed.nc file from output.nc.
